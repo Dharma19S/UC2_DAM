@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DAM_DharmaBonifacio</string>
+    <string name="radiobutton_ingenieriadesistemas">Ingeniería de sistemas</string>
+    <string name="radiobutton_ingenieriaambiental">Ingeniería Ambiental</string>
+    <string name="radiobutton_ingenieriamecanica">Ingeniería Mecánica</string>
+    <string name="radiobutton_administracion">Administración</string>
+    <string name="CheckboxRadio">Radio</string>
+    <string name="CheckboxInternet">Internet</string>
+    <string name="CheckboxAmigo">Amigo</string>
+    <string name="CheckboxPublicidad">Publicidad</string>
 </resources>
